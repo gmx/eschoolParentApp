@@ -16,7 +16,7 @@
     <author href="ronetz.com" email="moethetster@gmail.com">
         GMX
     </author>
-    <content src="index.html" />
+    <content src="http://parent.ronetz.com/parents" />
     <access origin="*" />
     <preference name="Fullscreen" value="true" />
     <preference name="WebViewBounce" value="true" />
